@@ -7,6 +7,10 @@
   </a> 
 </p>
 
+---
+
+<p align="left">ABOUT ME </p>
+
 - 🚀 Enthusiastic and goal-oriented developer diving deep into the **full-stack world**  
 - 💻 Specialized in building applications with the **MERN stack**  
 - 🔭 Currently working on a **Parking Management Platform** [🚀 new projects coming soon]  
@@ -15,7 +19,9 @@
 - 🤔 Looking for guidance on **scalable API architecture** and **production deployments**  
 - 📫 How to reach me: **vdevwork1906@gmail.com**  
 - 📄 Know about my experiences: [View Resume](https://github.com/Vasu-Chourasia/My-Profile/blob/main/Vasu%20Chourasia%20(4).pdf)  
-- ⚡ Fun fact: *I debug faster with ☕ coffee by my side*  
+- ⚡ Fun fact: *I debug faster with ☕ coffee by my side*
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +30,8 @@
 <a href="https://codeforces.com/profile/vdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vasuchourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasuchourasia" height="30" width="40" /></a>
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -37,5 +45,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 
