@@ -9,7 +9,7 @@
 
 - 🚀 Enthusiastic and goal-oriented developer diving deep into the **full-stack world**  
 - 💻 Specialized in building applications with the **MERN stack**  
-- 🔭 Currently working on a **Hospital Management System** [🚀 new projects coming soon]  
+- 🔭 Currently working on a **Parking Management Platform** [🚀 new projects coming soon]  
 - 🌱 Learning **advanced backend practices** with Node.js, Express & MongoDB  
 - 🤝 Open to collaborating on **open-source MERN stack projects** and real-world applications  
 - 🤔 Looking for guidance on **scalable API architecture** and **production deployments**  
