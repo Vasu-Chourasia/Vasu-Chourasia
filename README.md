@@ -9,7 +9,7 @@
 
 ---
 
-<p align="left">ABOUT ME </p>
+<h3 align="left">ABOUT ME </h3>
 
 - 🚀 Enthusiastic and goal-oriented developer diving deep into the **full-stack world**  
 - 💻 Specialized in building applications with the **MERN stack**  
@@ -45,6 +45,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 
