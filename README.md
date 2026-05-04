@@ -19,7 +19,6 @@
 - 🤔 Looking for guidance on **scalable API architecture** and **production deployments**  
 - 📫 How to reach me: **vdevwork1906@gmail.com**  
 - 📄 Know about my experiences: [View Resume](https://github.com/Vasu-Chourasia/My-Profile/blob/main/Vasu%20Chourasia%20resume.pdf)
-- ⚡ Fun fact: *I debug faster with ☕ coffee by my side*
 
 ---
 
