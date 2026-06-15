@@ -6,8 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://vasu-chourasia-portfolio.vercel.app)
-
+<a href="https://vasu-chourasia-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio_→-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" height="42" alt="Explore My Portfolio" />
+</a>
 </div>
 
 ---
