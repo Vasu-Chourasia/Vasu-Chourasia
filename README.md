@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning)](https://git.io/typing-svg)
 
 <a href="https://vasu-chourasia-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio_→-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" height="42" alt="Explore My Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio_→-feb29b?style=for-the-badge&logo=vercel&logoColor=white" height="42" alt="Explore My Portfolio" style="border-radius: 50px;" />
 </a>
 </div>
 
