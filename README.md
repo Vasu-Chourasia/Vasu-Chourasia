@@ -8,7 +8,7 @@
 
 
 <a href="https://vasu-chourasia-portfolio.vercel.app">
-  <img height="50" src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6F61" />
 </a> 
 
 
