@@ -6,11 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://vasu-chourasia-portfolio.vercel.app)
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 - 🔭 Currently building a **Parking Management Platform** — more projects incoming
 - 🌱 Deep-diving into **advanced backend practices** with Node.js, Express & MongoDB
@@ -109,16 +111,3 @@
 📖 Learning    Scalable API Architecture & Production Deployments
 🤝 Looking     Open-source MERN collaboration partners
 🎯 Goal        Ship production-ready apps that solve real problems
-```
-
----
-
-<div align="center">
-
-### 🔥 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vasu-Chourasia&label=Profile%20Views&color=00C9A7&style=flat)
-
-*Thanks for stopping by — let's build something awesome together!* 🚀
-
-</div>
