@@ -18,7 +18,6 @@
 
 ## 🧑💻 About Me
 
-- 🔭 Currently building a **Parking Management Platform** — more projects incoming
 - 🌱 Deep-diving into **advanced backend practices** with Node.js, Express & MongoDB
 - 🤝 Open to collaborating on **open-source MERN stack** and real-world projects
 - 🤔 Seeking guidance on **scalable API architecture** and **production deployments**
