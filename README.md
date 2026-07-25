@@ -22,7 +22,7 @@
 - 🤝 Open to collaborating on **open-source MERN stack** and real-world projects
 - 🤔 Seeking guidance on **scalable API architecture** and **production deployments**
 - 📫 Reach me at **[vdevwork1906@gmail.com](mailto:vdevwork1906@gmail.com)**
-- - 📄 [View My Resume](https://github.com/Vasu-Chourasia/My-Profile/blob/main/Vasu_Chourasia_Resume.pdf)
+- 📄 [View My Resume](https://github.com/Vasu-Chourasia/My-Profile/blob/main/Vasu_Chourasia_Resume.pdf)
 
 ---
 
